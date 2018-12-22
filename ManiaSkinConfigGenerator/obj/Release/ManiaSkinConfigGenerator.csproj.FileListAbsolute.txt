@@ -1,0 +1,13 @@
+C:\Users\xyrus10\source\repos\ManiaSkinConfigGenerator\ManiaSkinConfigGenerator\bin\Release\ManiaSkinConfigGenerator.exe.config
+C:\Users\xyrus10\source\repos\ManiaSkinConfigGenerator\ManiaSkinConfigGenerator\bin\Release\ManiaSkinConfigGenerator.exe
+C:\Users\xyrus10\source\repos\ManiaSkinConfigGenerator\ManiaSkinConfigGenerator\bin\Release\ManiaSkinConfigGenerator.pdb
+C:\Users\xyrus10\source\repos\ManiaSkinConfigGenerator\ManiaSkinConfigGenerator\obj\Release\ManiaSkinConfigGenerator.AboutBox1.resources
+C:\Users\xyrus10\source\repos\ManiaSkinConfigGenerator\ManiaSkinConfigGenerator\obj\Release\ManiaSkinConfigGenerator.Form1.resources
+C:\Users\xyrus10\source\repos\ManiaSkinConfigGenerator\ManiaSkinConfigGenerator\obj\Release\ManiaSkinConfigGenerator.Form2.resources
+C:\Users\xyrus10\source\repos\ManiaSkinConfigGenerator\ManiaSkinConfigGenerator\obj\Release\ManiaSkinConfigGenerator.Form3.resources
+C:\Users\xyrus10\source\repos\ManiaSkinConfigGenerator\ManiaSkinConfigGenerator\obj\Release\ManiaSkinConfigGenerator.Properties.Resources.resources
+C:\Users\xyrus10\source\repos\ManiaSkinConfigGenerator\ManiaSkinConfigGenerator\obj\Release\ManiaSkinConfigGenerator.csproj.GenerateResource.cache
+C:\Users\xyrus10\source\repos\ManiaSkinConfigGenerator\ManiaSkinConfigGenerator\obj\Release\ManiaSkinConfigGenerator.csproj.CoreCompileInputs.cache
+C:\Users\xyrus10\source\repos\ManiaSkinConfigGenerator\ManiaSkinConfigGenerator\obj\Release\ManiaSkinConfigGenerator.exe
+C:\Users\xyrus10\source\repos\ManiaSkinConfigGenerator\ManiaSkinConfigGenerator\obj\Release\ManiaSkinConfigGenerator.pdb
+C:\Users\xyrus10\source\repos\ManiaSkinConfigGenerator\ManiaSkinConfigGenerator\obj\Release\ManiaSkinConfigGenerator.csprojResolveAssemblyReference.cache
